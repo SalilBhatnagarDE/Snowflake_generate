@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 setup(
     name="snowflake",
-    version='0.2',
+    version='0.1',
     author="Salil-23220858",
     author_email="salil.bhatnagar@fau.de",
     packages=find_packages(),
